@@ -1,0 +1,5 @@
+export const HOME_INIT_SUCCESS = 'HOME_INIT_SUCCESS';
+export const HOME_INIT_RESET = 'HOME_INIT_RESET';
+export const AUTH_INIT = 'AUTH_INIT';
+export const AUTH_INIT_SUCCESS = 'AUTH_INIT_SUCCESS';
+export const AUTH_INIT_RESET = 'AUTH_INIT_RESET';
